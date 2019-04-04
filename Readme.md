@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ASPxPivotGrid_FindCells/Default.aspx) (VB: [Default.aspx](./VB/ASPxPivotGrid_FindCells/Default.aspx))
-* [Default.aspx.cs](./CS/ASPxPivotGrid_FindCells/Default.aspx.cs) (VB: [Default.aspx](./VB/ASPxPivotGrid_FindCells/Default.aspx))
+* [Default.aspx.cs](./CS/ASPxPivotGrid_FindCells/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_FindCells/Default.aspx.vb))
 <!-- default file list end -->
 # How to locate field value cells matching a particular condition
 
